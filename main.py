@@ -1,5 +1,5 @@
 print("==" * 15)
-print("        BANCO DA NINA")
+print("       BANCO DA NINA")
 print("Seja Bem Vindo!!!")
 print("==" * 15)
 while True:
