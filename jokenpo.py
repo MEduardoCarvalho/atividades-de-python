@@ -3,7 +3,7 @@ from time import sleep
 
 print("jogue jokenpo comigo")
 print("boa sorte!!!")
-computer =randint(1,3)
+computer = randint(1,3)
 print("1 - pedra")
 print("2 - papel")
 print("3 - tesoura")
