@@ -51,4 +51,4 @@ elif computer == usuario:
   print("-=" * 13)
   print("empate")
 else:
-  print("digite um numero certo, macaco")
+  print("digite um numero certo!!")
