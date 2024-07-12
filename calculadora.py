@@ -11,3 +11,5 @@ while c < fim:
     num = int(input(" \n quer mais quantos termos "))
     fim += num
 print(f"foram mostrado {fim} termos")
+
+
