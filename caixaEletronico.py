@@ -21,6 +21,7 @@ while True:
       print(f"total de {di1} cedulas de R$1")
       valor = valor - di1 * 1
     if valor == 0:
+
       break
     if valor < 0:
       print("ERRO!!! Digite novamente")
