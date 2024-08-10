@@ -9,7 +9,7 @@ print("2 - papel")
 print("3 - tesoura")
 usuario = int(input("qual sua jogado:"))
 if usuario <= 3 and usuario > 0:
- print("JO")
+ print("JÔ")
  sleep(1)
  print("KEN")
  sleep(1)
