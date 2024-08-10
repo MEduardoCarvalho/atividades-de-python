@@ -5,7 +5,7 @@ op = "S"
 while op == "S":
   num = int(input("digite um valor"))
   lista.append(num)
-  op = ""
+  op = "";
   while op != "S":
     op = str(input("quer continuar [S|N] ")).strip().upper()[0]
     if op == "N":
